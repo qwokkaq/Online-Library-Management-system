@@ -1,1 +1,7 @@
 # Online-Library-Management-system
+#The Online Library Management System is a web-based application designed to simplify library operations and provide users with convenient access to library resources. The system allows users to browse a digital collection of books, search for specific titles, authors, and categories, and view detailed information about available books.
+Registered users can borrow books, return previously borrowed books, and monitor their current loans and borrowing history through their personal accounts. The application also provides an administrative interface that allows librarians to manage the book collection, add new books, update existing information, remove books, and monitor borrowing activities.
+The system will support two main user roles: regular users and administrators. Regular users will have access to the library catalog and personal borrowing functions, while administrators will be responsible for managing books, users, and borrowing records.
+The application will be developed using Java Spring Boot and will follow a layered architecture consisting of Controller, Service, and Repository layers. PostgreSQL will be used to store application data, while Thymeleaf will be responsible for rendering dynamic web pages.
+The main goal of the project is to make library services more accessible, improve book management, and reduce the amount of manual administrative work.
+
